@@ -1,0 +1,12 @@
+/* Hoja de estilo personalizada */
+
+/* Selector de etiqueta */
+body{
+    background-color: cornflowerblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    text-align: center;
+}
